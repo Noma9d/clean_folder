@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: clean-folder
+Version: 0.1.1
+Summary: scripts clean folder and normalize file name
+Author: woody
+Author-email: woody0740@gmail.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.5
+License-File: LICENSE
