@@ -141,7 +141,7 @@ def main(folder: Path) -> None:
     for folder in FOLDERS[::-1]:
         handle_folder(folder)
 
-if __name__ == '__main__':
+def result_func():
     folder_for_scan = Path(sys.argv[1])
     main(folder_for_scan.resolve())
 

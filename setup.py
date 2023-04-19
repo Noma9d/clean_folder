@@ -15,5 +15,5 @@ setup(
     install_requires=[],
     python_requires='>=3.5',
     include_package_data=True,
-    entry_points = {'console_scripts': ['clean_folder = clean_folder:clean.py']}
+    entry_points = {'console_scripts': ['clean_folder = clean_folder.clean:result_func']}
 )
